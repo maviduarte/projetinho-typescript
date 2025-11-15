@@ -1,0 +1,32 @@
+{
+  "name": "projetin2ds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx watch src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "esbuild": "^0.25.11",
+    "get-tsconfig": "^4.13.0",
+    "resolve-pkg-maps": "^1.0.0",
+    "undici-types": "^7.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maviduarte/projeto-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maviduarte/projeto-typescript/issues"
+  },
+  "homepage": "https://github.com/maviduarte/projeto-typescript#readme"
+}
